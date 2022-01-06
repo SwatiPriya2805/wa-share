@@ -22,7 +22,7 @@ function init(){
     btn.setAttribute(
         "href",
         `https://wa.me/?text=${title}
-        <br> 
+         
         ${link}`
     );
 }
