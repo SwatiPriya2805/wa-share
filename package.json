@@ -1,0 +1,24 @@
+{
+  "name": "share",
+  "version": "1.0.0",
+  "description": "social share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwatiPriya2805/extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwatiPriya2805/extension/issues"
+  },
+  "homepage": "https://github.com/SwatiPriya2805/extension#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
