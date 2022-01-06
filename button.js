@@ -21,8 +21,10 @@ function init(){
     let title = encodeURI(document.title);
     btn.setAttribute(
         "href",
-        `https://wa.me/?text=${title} 
-        ${link}`
+        `
+        https://wa.me/?text=${title} 
+        ${link}
+        `
     );
 }
 init();
