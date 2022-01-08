@@ -41,7 +41,7 @@ for(let i=0; i< document.querySelectorAll('.btn').length; i++){
     btn[i].style.textAlign = "center";
     btn[i].style.cursor = "pointer";
 }
-btnClose.style.fontSize = "22px";
+btnClose.style.fontSize = "25px";
 btnClose.style.padding = "4px";
 btnClose.style.border = "3px #e42313 solid";
 btnClose.style.color = "#e42313";
